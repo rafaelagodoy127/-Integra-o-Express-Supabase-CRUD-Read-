@@ -1,0 +1,1 @@
+# -Integra-o-Express-Supabase-CRUD-Read-
